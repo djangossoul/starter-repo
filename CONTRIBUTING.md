@@ -8,7 +8,6 @@ We use GitHub exclusively for well-documented bugs, feature requests and code co
 To receive free support for plugins we only use the plugins' support forums on WordPress.org. Thanks for your understanding.
 
 ## Security issues
-Please do not report security issues here. Instead, please search for the plugin in the [Patchstack directory](https://patchstack.com/database/vdp/) and use the VDP program there to report your issue.
 
 ## I have found a bug
 Before opening a new issue, please:
