@@ -5,7 +5,7 @@ Before filing a bug report or a feature request, be sure to read the contributio
 ## How to use GitHub
 We use GitHub exclusively for well-documented bugs, feature requests and code contributions. Communication is always done in English.
 
-To receive free support for plugins we only use the plugins' support forums on WordPress.org. Thanks for your understanding.
+No free support here.
 
 ## Security issues
 
